@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shafeeq Siddiqui</h1>
 <h3 align="center">A passionate Software Engineer and Data Enthusiast from India</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=shafeeqsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="shafeeqsiddiqui" />
 </p>
 
@@ -10,14 +10,20 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **AI-Powered Resume ATS and Educational Chatbots**
-- 🌱 I’m currently learning **Cloud (AWS), FastAPI, and Generative AI**
-- 👯 I’m looking to collaborate on **Python, Data Engineering, and AI projects**
+- 🌱 I’m currently learning **Cloud (AWS), React, and Generative AI**
+- 👯 I’m looking to collaborate on **Python, Mern, and AI projects**
 - 💬 Ask me about **Python, Django, FastAPI, DSA, and Data Analysis, JavaScript, React, Node.js, MongoDB, Express.js**
 - 📫 How to reach me: **[shafeeqsiddiqui1@gmail.com](mailto:shafeeqsiddiqui1@gmail.com)**
 
 ---
 
 ### 🚀 Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,git,githubactions,html,css,js,python,django,flask,fastapi,docker,vim,mongodb,nginx,postman,redis,react,elasticsearch,linux,mysql,nodejs,npm,vscode,anaconda,&theme=light" />
+  </a>
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
